@@ -101,7 +101,9 @@ const nextConfig = {
     domains: [
       'gravatar.com',
       'www.notion.so',
+      'file.notion.so',
       'avatars.githubusercontent.com',
+      'raw.githubusercontent.com',
       'images.unsplash.com',
       'source.unsplash.com',
       'p1.qhimg.com',
